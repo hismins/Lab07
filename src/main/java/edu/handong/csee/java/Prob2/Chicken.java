@@ -1,5 +1,10 @@
 package edu.handong.csee.java.Prob2;//this class's package.
 
+/**this class will print information of chickens.
+ * *
+ * @author miin
+ *
+ */
 public class Chicken {//name of class.
 
 	private String Name;//this variable "Name" is private.

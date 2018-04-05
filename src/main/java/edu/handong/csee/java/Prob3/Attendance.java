@@ -1,6 +1,11 @@
 package edu.handong.csee.java.Prob3;//this class's package.
 import java.util.Random;//this class will and can use random.
 
+/**this class will inform which student is failed and how much he absent.
+ * 
+ * @author miin
+ *
+ */
 public class Attendance {//name of class.
 	private String name = "";//this variable is private
 	private int year = 0;//this variable is private

@@ -1,6 +1,10 @@
 package edu.handong.csee.java.Prob1;//this class's package.
 import java.util.Scanner; //this class will and can use scanner.
-
+/**this class informs the year is which century
+ * 
+ * @author miin
+ *
+ */
 public class YearToCentury {//class name.
 
 	static int Year;//this static variable can use in anywhere of class.
